@@ -1,0 +1,21 @@
+.space{
+    background-color: aqua;
+}
+.about{
+    background-image: url(FB_IMG_15810815288366863.jpg);
+}
+.try{
+    max-width: 500px;
+    margin: 10px auto;
+    padding: 15px auto;
+    background-color:black;
+}
+.dax{
+    background-color: blanchedalmond;
+}
+.slido{
+    background-color: black;
+}
+.row{
+    background-color: crimson;
+}
